@@ -1,7 +1,7 @@
 # Olá Mundo
  <div>
   <a href="https://github.com/Yyax13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yyax13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyax13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yyax13&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
