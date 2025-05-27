@@ -3,7 +3,7 @@
 
 ## Olá! 👋
 
-> Sou Yyax13, um desenvolvedor full stack com ênfase em segurança e automação. Minha jornada começou há 6 anos desenvolvendo plugins e mods para Minecraft usando PHP. Atualmente, foco em projetos que combinam desenvolvimento web, DevOps e segurança ofensiva. Se quiser apoiar meu trabalho, ficarei muito grato por um patrocínio! :D
+> Sou Yyax13, um desenvolvedor back end e entusiasta em segurança e automação. Minha jornada começou há 4~5 anos desenvolvendo Jogos com GML. Atualmente, foco em projetos que combinam desenvolvimento web, DevOps e segurança. Se quiser apoiar meu trabalho, ficarei muito grato por um patrocínio! :D
 
 ---
 
