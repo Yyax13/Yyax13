@@ -1,17 +1,37 @@
-# Olá Mundo
- <div>
-  <a href="https://github.com/Yyax13">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yyax13&theme=synthwave&show_icons=true&hide_border=true&count_private=true">
-  </a>
-</div>
-<div><a href="https://github.com/Yyax13?tab=repositories">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yyax13&theme=synthwave&show_icons=true&hide_border=true&layout=compact">
-</a></div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="tailwind" height="140" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-</div>
+
+![Banner](https://raw.githubusercontent.com/Yyax13/Yyax13/refs/heads/main/banner.gif)
+
+## Olá! 👋
+
+> Sou Yyax13, um desenvolvedor full stack com ênfase em segurança e automação. Minha jornada começou há 6 anos desenvolvendo plugins e mods para Minecraft usando PHP. Atualmente, foco em projetos que combinam desenvolvimento web, DevOps e segurança ofensiva. Se quiser apoiar meu trabalho, ficarei muito grato por um patrocínio! :D
+
+---
+
+## 🛠️ Stack
+
+![oaicite:6](https://img.shields.io/badge/python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![oaicite:9](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![oaicite:12](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![oaicite:15](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![oaicite:18](https://img.shields.io/badge/express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-3E4E88?style=for-the-badge\&logo=zod\&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6F61?style=for-the-badge\&logo=rest\&logoColor=white)
+![oaicite:25](https://img.shields.io/badge/Monolitos-6A5ACD?style=for-the-badge\&logo=monolith\&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![oaicite:30](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![oaicite:33](https://img.shields.io/badge/postgresql-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![oaicite:36](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![oaicite:39](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Nmap](https://img.shields.io/badge/nmap-4B8BBE?style=for-the-badge\&logo=nmap\&logoColor=white)
+![oaicite:44](https://img.shields.io/badge/metasploit-000000?style=for-the-badge\&logo=metasploit\&logoColor=white)
+![oaicite:47](https://img.shields.io/badge/wpscan-FF0000?style=for-the-badge\&logo=wpscan\&logoColor=white)
+![oaicite:50](https://img.shields.io/badge/unix-000000?style=for-the-badge\&logo=unix\&logoColor=white)
+![oaicite:53](https://img.shields.io/badge/devops-0A0A0A?style=for-the-badge\&logo=devops\&logoColor=white)
+![QA](https://img.shields.io/badge/qa-FF4500?style=for-the-badge\&logo=qa\&logoColor=white)
+
+---
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yyax13\&theme=tokyonight)](https://git.io/streak-stats)
+
+![Yyax13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyax13&show_icons=true\&theme=tokyonight)
