@@ -32,6 +32,6 @@
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yyax13\&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yyax13&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Yyax13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyax13&show_icons=true\&theme=tokyonight)
