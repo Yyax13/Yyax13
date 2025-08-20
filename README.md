@@ -36,4 +36,4 @@
 
 ![Yyax13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyax13&show_icons=true\&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yyax13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yyax13&layout=default&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
