@@ -31,9 +31,7 @@ Sou Lucas, um desenvolvedor back end e entusiasta em segurança. Minha jornada c
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yyax13&theme=tokyonight)](https://git.io/streak-stats)
-
-![Yyax13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyax13&show_icons=true&theme=tokyonight)
+![Yyax13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyax13&show_icons=true&theme=tokyonight&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yyax13&layout=compact&count_weight=0&exclude_repo=nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor&hide=html,css,php,Makefile,shell,Powershell&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
