@@ -41,6 +41,7 @@ Sou Lucas, um desenvolvedor back end e entusiasta em segurança. Minha jornada c
 
 ## 💻 Ultimos projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=TheDarkMark&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=proc_injection&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=shellcode&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=TheDarkMark&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/TheDarkMark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=proc_injection&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/proc_injection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=shellcode&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/shellcode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=string_to_hex&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/string_to_hex)
