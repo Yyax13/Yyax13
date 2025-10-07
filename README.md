@@ -44,3 +44,4 @@ Sou Lucas, um desenvolvedor back end e entusiasta em segurança. Minha jornada c
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=shellcode&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/shellcode)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=hollowing&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/hollowing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=string_to_hex&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/string_to_hex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=.bin&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/.bin)
