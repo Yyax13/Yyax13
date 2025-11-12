@@ -57,17 +57,17 @@ Sou Lucas, um desenvolvedor back end e entusiasta em segurança. Minha jornada c
 
 ## 📈 GitHub Stats
 
-![Yyax13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyax13&show_icons=true&theme=tokyonight&layout=compact)
+![Yyax13's GitHub stats](https://github-readme-stats-lime-ten-54.vercel.app/api?username=Yyax13&show_icons=true&theme=tokyonight&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yyax13&layout=compact&count_weight=0&exclude_repo=nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=Yyax13&layout=compact&count_weight=0&exclude_repo=nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 💻 Ultimos projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=TheDarkMark&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/TheDarkMark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=proc_injection&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/proc_injection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=shellcode&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/shellcode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=hollowing&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/hollowing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=string_to_hex&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/string_to_hex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yyax13&repo=.bin&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/.bin)
+[![Readme Card](https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=TheDarkMark&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/TheDarkMark)
+[![Readme Card](https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=proc_injection&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/proc_injection)
+[![Readme Card](https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=shellcode&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/shellcode)
+[![Readme Card](https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=hollowing&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/hollowing)
+[![Readme Card](https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=string_to_hex&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/string_to_hex)
+[![Readme Card](https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=.bin&show_owner=true&theme=tokyonight)](https://github.com/Yyax13/.bin)
