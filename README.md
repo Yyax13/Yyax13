@@ -7,25 +7,31 @@
 
 ## Skills
 
-### Languages
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-35495E?style=for-the-badge&logo=assemblyscript&logoColor=blue)
-![Shell](https://img.shields.io/badge/Shell_Script-4B4B4B?style=for-the-badge&logo=linux&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<div align="center">
+    <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Assembly-35495E?style=for-the-badge&logo=assemblyscript&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Shell_Script-4B4B4B?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/zod-3E4E88?style=for-the-badge&logo=zod&logoColor=white" />
+    <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-0f0d14?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Cobra_CLI-000000?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Malware_Development-black?style=for-the-badge&logo=null&logoColor=white" />
+    <img src="https://img.shields.io/badge/Red_Team-black?style=for-the-badge&logo=null&logoColor=white" />
+    <img src="https://img.shields.io/badge/C2-black?style=for-the-badge&logo=null&logoColor=white" />
 
-### Frameworks & DBs
-![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-3E4E88?style=for-the-badge&logo=zod&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0f0d14?style=for-the-badge&logo=linux&logoColor=white)
+</div>
 
-### Others
-
-![hacking](https://img.shields.io/badge/Malware_Development-black?style=for-the-badge&logo=null&logoColor=white)
-![hacking](https://img.shields.io/badge/Red_Team-black?style=for-the-badge&logo=null&logoColor=white)
-![hacking](https://img.shields.io/badge/C2-black?style=for-the-badge&logo=null&logoColor=white)
 
 ## 💻 Last (and better) projects
 
