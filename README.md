@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=Yyax13&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117"/>
-<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=Yyax13&layout=compact&count_weight=0&exclude_repo=nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=Yyax13&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=true&bg_color=0d1117">
 </div>
 
 ## Skills
@@ -33,15 +33,25 @@
 </div>
 
 
-## 💻 Last (and better) projects
+## 💻 Last (and best) projects
 
 <div align="center" style="border: 1px solid #e4e2e2; border-radius: 7px; padding: 10px;">
-<a href="https://github.com/Yyax13/TheDarkMark"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=TheDarkMark&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" /></a>
-<a href="https://github.com/Yyax13/proc_injection"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=proc_injection&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" /></a>
-<a href="https://github.com/Yyax13/shellcode"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=shellcode&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" /></a>
-<a href="https://github.com/Yyax13/hollowing"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=hollowing&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" /></a>
-<a href="https://github.com/Yyax13/.bin"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=.bin&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" /></a>
-<a href="https://yyax13.github.io"><img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=yyax13.github.io&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" /></a>
+<a href="https://github.com/Yyax13/TheDarkMark">
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=TheDarkMark&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" />
+</a>
+    
+<a href="https://github.com/Yyax13/Papers">
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=Papers&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/Yyax13/SparkType">
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=SparkType&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/Yyax13/CVE-2025-55182">
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=CVE-2025-55182&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663dad&height=120&section=footer"/>
