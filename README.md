@@ -40,8 +40,8 @@
     <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=TheDarkMark&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" />
 </a>
     
-<a href="https://github.com/Yyax13/Papers">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=Papers&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/Yyax13/zine">
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=zine&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/Yyax13/SparkType">
