@@ -53,7 +53,7 @@
 </a>
 
 <a href="https://github.com/ScorpionC2/ScorpionC2">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=ScorpionC2&repo=ScorpionC2&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=ScorpionC2&repo=ScorpionC2&theme=tokyonight&show_owner=true&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
