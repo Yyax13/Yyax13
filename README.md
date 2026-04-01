@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=Yyax13&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117"/>
-<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=Yyax13&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=Yyax13&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc,r&theme=tokyonight&hide_border=true&bg_color=0d1117">
 </div>
 
 ## Skills
