@@ -56,6 +56,10 @@
     <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=ScorpionC2&repo=ScorpionC2&theme=tokyonight&show_owner=true&hide_border=true&bg_color=0d1117" />
 </a>
 
+<a href="https://github.com/Yyax13/AnakinRK">
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=AnakinRK&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663dad&height=120&section=footer"/>
