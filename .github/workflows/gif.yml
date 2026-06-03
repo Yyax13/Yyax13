@@ -15,4 +15,4 @@ jobs:
     - uses: Yyax13/github-profile-terminal-action@main
       with:
         theme: dark
-        token: ${{ secrets. GITHUB_TOKEN }}
+        token: ${{ secrets.GHPAT }}
