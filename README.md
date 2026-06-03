@@ -5,32 +5,7 @@
 <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=Yyax13&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc,r&theme=tokyonight&hide_border=true&bg_color=0d1117">
 </div>
 
-## Skills
-
-<div align="center">
-    <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Assembly-35495E?style=for-the-badge&logo=assemblyscript&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Shell_Script-4B4B4B?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/zod-3E4E88?style=for-the-badge&logo=zod&logoColor=white" />
-    <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-0f0d14?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Cobra_CLI-000000?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Malware_Development-black?style=for-the-badge&logo=null&logoColor=white" />
-    <img src="https://img.shields.io/badge/Red_Team-black?style=for-the-badge&logo=null&logoColor=white" />
-    <img src="https://img.shields.io/badge/C2-black?style=for-the-badge&logo=null&logoColor=white" />
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bash,c,cpp,express,sqlite,postgres,linux,py,mysql,prisma,nextjs,nginx,nodejs,react,go,arch,arduino,clion,discord,bots,git,github,githubactions)](https://skillicons.dev)
 
 
 ## 💻 Last (and best) projects
