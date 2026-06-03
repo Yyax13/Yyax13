@@ -1,7 +1,11 @@
 <img width=100% src="os.gif"/>
 <br/><br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bash,c,cpp,express,sqlite,postgres,linux,py,mysql,prisma,nextjs,nginx,nodejs,react,go,arch,arduino,clion,discord,bots,git,github,githubactions,idea,latex,less,md,neovim,npm,obsidian,postman,regex,tailwind,vercel,vim,vscode,webstorm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,bash,c,cpp,express,sqlite,postgres,linux,py,mysql,prisma,nextjs,nginx,nodejs,react,go,arch,arduino,clion,discord,bots,discordjs,git,github,githubactions,idea,latex,less,md,neovim,npm,obsidian,postman,regex,tailwind,vercel,vim,vscode,webstorm&perline=14" />
+  </a>
+</p>
 
 <br/><br/>
 <div align="center" style="border: 1px solid #e4e2e2; border-radius: 7px; padding: 10px;">
