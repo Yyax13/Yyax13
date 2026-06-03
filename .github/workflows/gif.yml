@@ -14,6 +14,5 @@ jobs:
     - uses: actions/checkout@master
     - uses: Yyax13/github-profile-terminal-action@main
       with:
-        feed_url: https://howosec/index.xml
         theme: dark
         token: ${{ secrets. GITHUB_TOKEN }}
