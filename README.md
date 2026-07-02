@@ -1,11 +1,85 @@
 <img width=100% src="os.gif"/>
 <br/><br/>
 
+<h1 align="center">
+━━━━ Skills ━━━━
+</h1>
+
+<h3 align="center">
+━━━━ Languages ━━━━
+</h3>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,bash,c,cpp,express,sqlite,postgres,linux,py,mysql,prisma,nextjs,nginx,nodejs,react,go,arch,arduino,clion,discord,bots,discordjs,git,github,githubactions,idea,latex,less,md,neovim,npm,obsidian,postman,regex,tailwind,vercel,vim,vscode,webstorm&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,py,c,cpp,bash,html,css" />
 </p>
+
+<hr>
+<h3 align="center">
+━━━━ Front-end ━━━━
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,less" />
+</p>
+
+<hr>
+<h3 align="center">
+━━━━ Back-end ━━━━
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nginx" />
+</p>
+
+<hr>
+<h3 align="center">
+━━━━ Databases ━━━━
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+<hr>
+<h3 align="center">
+━━━━ Operating Systems ━━━━
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,windows" />
+</p>
+
+<hr>
+<h3 align="center">
+━━━━ Embedded ━━━━
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+<hr>
+<h3 align="center">
+━━━━ Tools ━━━━
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,postman,regex,md,latex,obsidian,vercel,discord,bots,discordjs" />
+</p>
+
+<hr>
+<h3 align="center">
+━━━━ Editors & IDEs ━━━━
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,clion,neovim,vim" />
+</p>
+
+<hr><br/><br/>
+<h1 align="center">
+━━━━ Projects ━━━━
+</h1>
 
 <br/><br/>
 <div align="center" style="border: 1px solid #e4e2e2; border-radius: 7px; padding: 10px;">
