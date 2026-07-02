@@ -5,6 +5,7 @@
 ━━━━ Skills ━━━━
 </h1>
 
+<br/><br/>
 <h3 align="center">
 ━━━━ Languages ━━━━
 </h3>
@@ -13,6 +14,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,go,py,c,cpp,bash,html,css" />
 </p>
 
+<br/><br/>
 <hr>
 <h3 align="center">
 ━━━━ Front-end ━━━━
@@ -22,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,less" />
 </p>
 
+<br/><br/>
 <hr>
 <h3 align="center">
 ━━━━ Back-end ━━━━
@@ -31,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nginx" />
 </p>
 
+<br/><br/>
 <hr>
 <h3 align="center">
 ━━━━ Databases ━━━━
@@ -40,6 +44,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
+<br/><br/>
 <hr>
 <h3 align="center">
 ━━━━ Operating Systems ━━━━
@@ -49,6 +54,7 @@
   <img src="https://skillicons.dev/icons?i=linux,arch,windows" />
 </p>
 
+<br/><br/>
 <hr>
 <h3 align="center">
 ━━━━ Embedded ━━━━
@@ -58,6 +64,7 @@
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
+<br/><br/>
 <hr>
 <h3 align="center">
 ━━━━ Tools ━━━━
@@ -67,6 +74,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,postman,regex,md,latex,obsidian,vercel,discord,bots,discordjs" />
 </p>
 
+<br/><br/>
 <hr>
 <h3 align="center">
 ━━━━ Editors & IDEs ━━━━
@@ -76,7 +84,8 @@
   <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,clion,neovim,vim" />
 </p>
 
-<hr><br/><br/>
+<br/><br/>
+<hr>
 <h1 align="center">
 ━━━━ Projects ━━━━
 </h1>
