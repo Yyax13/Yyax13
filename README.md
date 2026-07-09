@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <a href="https://kenja-no-mago.fandom.com/wiki/Shin_Wolford"><img src="https://static.wikia.nocookie.net/kenja-no-mago/images/f/f6/Shin_m-young.png/revision/latest/scale-to-width/360?cb=20171130093521" width="20%" align="right"/></a>
 
   <pre align="left">
