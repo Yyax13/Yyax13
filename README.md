@@ -32,31 +32,11 @@ Brazilian 🇧🇷
 <br/><br/>
 <hr>
 <h3 align="center">
-━━━━ Front-end ━━━━
+━━━━ Web Development ━━━━
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,less" />
-</p>
-
-<br/><br/>
-<hr>
-<h3 align="center">
-━━━━ Back-end ━━━━
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nginx" />
-</p>
-
-<br/><br/>
-<hr>
-<h3 align="center">
-━━━━ Databases ━━━━
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,nginx,postgres,mysql,sqlite" />
 </p>
 
 <br/><br/>
@@ -66,17 +46,7 @@ Brazilian 🇧🇷
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,windows" />
-</p>
-
-<br/><br/>
-<hr>
-<h3 align="center">
-━━━━ Embedded ━━━━
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,windows" />
 </p>
 
 <br/><br/>
@@ -86,7 +56,7 @@ Brazilian 🇧🇷
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,postman,regex,md,latex,obsidian,vercel,discord,bots,discordjs" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,postman,regex,md,latex,obsidian,vercel,discord,bots,discordjs,arduino" />
 </p>
 
 <br/><br/>
