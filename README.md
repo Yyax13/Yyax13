@@ -1,11 +1,26 @@
-<img width=100% src="os.gif"/>
-<br/><br/>
+<div align="center">
+  <a href="https://kenja-no-mago.fandom.com/wiki/Shin_Wolford"><img src="https://static.wikia.nocookie.net/kenja-no-mago/images/f/f6/Shin_m-young.png/revision/latest/scale-to-width/360?cb=20171130093521" width="20%" align="right"/></a>
 
+  <pre align="left">
+    
+<b>hoWo (aka Yyax13)</b>
+Brazilian 🇧🇷
+<hr><b>Interested in:</b>
+- Low-Level Programming
+- PRNGs
+- Hashing
+- Malware Development
+- Digital Gardening at howosec.com
+  </pre>
+</div>
+
+<hr/>
+<br/><br/>
 <h1 align="center">
 ━━━━ Skills ━━━━
 </h1>
 
-<br/><br/>
+<br/>
 <h3 align="center">
 ━━━━ Languages ━━━━
 </h3>
@@ -133,3 +148,18 @@
 </a>
 
 </div>
+
+<br/><br/>
+<hr>
+<h1 align="center">
+━━━━ Statistics ━━━━
+</h1>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yyax13&theme=github_dark" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yyax13&theme=github_dark" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yyax13&theme=github_dark" width="47%" />
+</p>
