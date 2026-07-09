@@ -14,6 +14,22 @@ Brazilian 🇧🇷
   </pre>
 </div>
 
+<hr>
+<br/><br/>
+<h1 align="center">
+━━━━ Statistics ━━━━
+</h1>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yyax13&theme=github_dark" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yyax13&theme=github_dark" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yyax13&theme=github_dark" width="47%" />
+</p>
+
+
 <hr/>
 <br/><br/>
 <h1 align="center">
@@ -118,18 +134,3 @@ Brazilian 🇧🇷
 </a>
 
 </div>
-
-<br/><br/>
-<hr>
-<h1 align="center">
-━━━━ Statistics ━━━━
-</h1>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yyax13&theme=github_dark" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yyax13&theme=github_dark" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yyax13&theme=github_dark" width="47%" />
-</p>
