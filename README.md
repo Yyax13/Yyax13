@@ -94,43 +94,43 @@ Brazilian 🇧🇷
 <br/><br/>
 <div align="center" style="border: 1px solid #e4e2e2; border-radius: 7px; padding: 10px;">
 <a href="https://github.com/Yyax13/TheDarkMark">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=TheDarkMark&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Readme Card" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=TheDarkMark&show_owner=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Readme Card" />
 </a>
     
 <a href="https://github.com/Yyax13/RNG-Collection">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=RNG-Collection&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=RNG-Collection&show_owner=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </a>
 
 <a href="https://github.com/Yyax13/SparkType">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=SparkType&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=SparkType&show_owner=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </a>
 
 <a href="https://github.com/Yyax13/CVE-2025-55182">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=CVE-2025-55182&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=CVE-2025-55182&show_owner=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </a>
 
 <a href="https://github.com/ScorpionC2/ScorpionC2">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=ScorpionC2&repo=ScorpionC2&theme=tokyonight&show_owner=true&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=ScorpionC2&repo=ScorpionC2&theme=tokyonight&show_owner=true&bg_color=0d1117&hide_border=true" />
 </a>
 
 <a href="https://github.com/Yyax13/AnakinRK">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=AnakinRK&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=AnakinRK&show_owner=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </a>
 
 <a href="https://github.com/Yyax13/SAF256">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=SAF256&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=SAF256&show_owner=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </a>
 
 <a href="https://github.com/Yyax13/CustomVM">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=CustomVM&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=CustomVM&show_owner=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </a>
 
 <a href="https://github.com/Yyax13/Gommit">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=Gommit&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=Gommit&show_owner=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </a>
 
 <a href="https://github.com/Yyax13/c2-over-discord">
-    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=c2-over-discord&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Yyax13&repo=c2-over-discord&show_owner=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </a>
 
 </div>
